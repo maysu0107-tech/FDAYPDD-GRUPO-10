@@ -1,0 +1,42 @@
+[
+  {
+    "tipo_de_activo":"Otro",
+    "fecha_de_compra":1703980800000,
+    "costo":2718.57,
+    "proveedor":"PAJU SANITATION CORP.",
+    "vida_util_(anos)":5,
+    "ubicacion":"ACC – Campus Principal"
+  },
+  {
+    "tipo_de_activo":"Otro",
+    "fecha_de_compra":1703980800000,
+    "costo":7889.61,
+    "proveedor":"KOREA HOUSING MANAGEMENT CO.,LTD",
+    "vida_util_(anos)":5,
+    "ubicacion":"ACC – Campus Principal"
+  },
+  {
+    "tipo_de_activo":"Otro",
+    "fecha_de_compra":1703980800000,
+    "costo":126244.26,
+    "proveedor":"GPC CONSOLIDATED REPORTING",
+    "vida_util_(anos)":5,
+    "ubicacion":"ACC – Campus Principal"
+  },
+  {
+    "tipo_de_activo":"Otro",
+    "fecha_de_compra":1703980800000,
+    "costo":232440.24,
+    "proveedor":"GPC FOREIGN CONTRACTOR CONSOLIDATED REPORTING",
+    "vida_util_(anos)":5,
+    "ubicacion":"ACC – Campus Principal"
+  },
+  {
+    "tipo_de_activo":"Licencia de software",
+    "fecha_de_compra":1703980800000,
+    "costo":520635.33,
+    "proveedor":"GOVERNMENT ACQUISITIONS INC",
+    "vida_util_(anos)":3,
+    "ubicacion":"ACC – Campus Principal"
+  }
+]
